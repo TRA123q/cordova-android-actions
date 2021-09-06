@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<plugin id="cordova-android-actions" version="1.0.0" 
+  xmlns="http://apache.org/cordova/ns/plugins/1.0" 
+  xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <name>cordova android actions</name>
+  <license>MIT</license>
+  
+  <dependency id="android-manifest" url="https://github.com/CroiXan/cordova-android-manifest#1.0.0"/>
+  
+  <platform name="android">
+	
+	<hook type="before_plugin_install" src="hooks/copy_resources.js" />
+	
+  </platform>
+</plugin>

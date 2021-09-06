@@ -1,0 +1,25 @@
+{
+  "name": "cordova-android-actions",
+  "version": "1.0.0",
+  "description": "",
+  "cordova": {
+    "id": "cordova-android-actions",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CroiXan/cordova-android-actions.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CroiXan/cordova-android-actions/issues"
+  },
+  "homepage": "https://github.com/CroiXan/cordova-android-actions#readme"
+}
